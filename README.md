@@ -1,6 +1,6 @@
 # **Ecommerce Product Recommendation System**
 Welcome to the **Ecommerce Product Recommendation System**, a project leveraging Large languages Model and Natural language processing (NLP) techniques to deliver personalized product recommendations. 🚀
-![Uploading reccomend ecommerce products.gif…]()
+![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/MMLs-NLP-Recommend-E-commerce-Products/blob/main/reccomend%20ecommerce%20products.gif)
 
 ## **About the Project**
 This project focuses on building a recommendation system for Ecommerce product data, with features such as:
